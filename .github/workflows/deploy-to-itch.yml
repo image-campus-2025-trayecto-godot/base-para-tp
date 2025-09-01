@@ -58,4 +58,4 @@ jobs:
           CHANNEL: web
           ITCH_GAME: ${{ secrets.ITCHIO_GAME }}
           ITCH_USER: ${{ secrets.ITCHIO_USERNAME }}
-          PACKAGE: web.zip
+          PACKAGE: Web.zip
