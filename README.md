@@ -6,8 +6,7 @@ Este repositorio sirve entrega del trabajo práctico 1 del trayecto de image cam
 
 Pueden crearse tranquilamente un repositorio de cero, pero si quieren tener uno con configuración para subir a itch automática, pueden generar un repositorio a partir de este:
 
-https://github.com/user-attachments/assets/0ca148ae-b8da-47f8-8487-4dde9a934bd4
-
+https://github.com/user-attachments/assets/dbf1368c-6b99-4b02-bf84-7b63d299d5db
 
 
 ## Como subir a itch automáticamente
